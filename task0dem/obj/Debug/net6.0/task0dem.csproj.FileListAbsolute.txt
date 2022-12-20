@@ -1,0 +1,15 @@
+C:\Users\kuchi\Desktop\sem2\task0dem\bin\Debug\net6.0\task0dem.exe
+C:\Users\kuchi\Desktop\sem2\task0dem\bin\Debug\net6.0\task0dem.deps.json
+C:\Users\kuchi\Desktop\sem2\task0dem\bin\Debug\net6.0\task0dem.runtimeconfig.json
+C:\Users\kuchi\Desktop\sem2\task0dem\bin\Debug\net6.0\task0dem.dll
+C:\Users\kuchi\Desktop\sem2\task0dem\bin\Debug\net6.0\task0dem.pdb
+C:\Users\kuchi\Desktop\sem2\task0dem\obj\Debug\net6.0\task0dem.csproj.AssemblyReference.cache
+C:\Users\kuchi\Desktop\sem2\task0dem\obj\Debug\net6.0\task0dem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kuchi\Desktop\sem2\task0dem\obj\Debug\net6.0\task0dem.AssemblyInfoInputs.cache
+C:\Users\kuchi\Desktop\sem2\task0dem\obj\Debug\net6.0\task0dem.AssemblyInfo.cs
+C:\Users\kuchi\Desktop\sem2\task0dem\obj\Debug\net6.0\task0dem.csproj.CoreCompileInputs.cache
+C:\Users\kuchi\Desktop\sem2\task0dem\obj\Debug\net6.0\task0dem.dll
+C:\Users\kuchi\Desktop\sem2\task0dem\obj\Debug\net6.0\refint\task0dem.dll
+C:\Users\kuchi\Desktop\sem2\task0dem\obj\Debug\net6.0\task0dem.pdb
+C:\Users\kuchi\Desktop\sem2\task0dem\obj\Debug\net6.0\task0dem.genruntimeconfig.cache
+C:\Users\kuchi\Desktop\sem2\task0dem\obj\Debug\net6.0\ref\task0dem.dll
