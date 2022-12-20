@@ -1,0 +1,15 @@
+C:\Users\kuchi\Desktop\sem2\task10HW\obj\Debug\net6.0\task10HW.csproj.AssemblyReference.cache
+C:\Users\kuchi\Desktop\sem2\task10HW\obj\Debug\net6.0\task10HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kuchi\Desktop\sem2\task10HW\obj\Debug\net6.0\task10HW.AssemblyInfoInputs.cache
+C:\Users\kuchi\Desktop\sem2\task10HW\obj\Debug\net6.0\task10HW.AssemblyInfo.cs
+C:\Users\kuchi\Desktop\sem2\task10HW\obj\Debug\net6.0\task10HW.csproj.CoreCompileInputs.cache
+C:\Users\kuchi\Desktop\sem2\task10HW\bin\Debug\net6.0\task10HW.exe
+C:\Users\kuchi\Desktop\sem2\task10HW\bin\Debug\net6.0\task10HW.deps.json
+C:\Users\kuchi\Desktop\sem2\task10HW\bin\Debug\net6.0\task10HW.runtimeconfig.json
+C:\Users\kuchi\Desktop\sem2\task10HW\bin\Debug\net6.0\task10HW.dll
+C:\Users\kuchi\Desktop\sem2\task10HW\bin\Debug\net6.0\task10HW.pdb
+C:\Users\kuchi\Desktop\sem2\task10HW\obj\Debug\net6.0\task10HW.dll
+C:\Users\kuchi\Desktop\sem2\task10HW\obj\Debug\net6.0\refint\task10HW.dll
+C:\Users\kuchi\Desktop\sem2\task10HW\obj\Debug\net6.0\task10HW.pdb
+C:\Users\kuchi\Desktop\sem2\task10HW\obj\Debug\net6.0\task10HW.genruntimeconfig.cache
+C:\Users\kuchi\Desktop\sem2\task10HW\obj\Debug\net6.0\ref\task10HW.dll
