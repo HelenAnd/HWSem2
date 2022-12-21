@@ -1,0 +1,15 @@
+C:\Users\kuchi\Desktop\sem2\task15HW\bin\Debug\net6.0\task15HW.exe
+C:\Users\kuchi\Desktop\sem2\task15HW\bin\Debug\net6.0\task15HW.deps.json
+C:\Users\kuchi\Desktop\sem2\task15HW\bin\Debug\net6.0\task15HW.runtimeconfig.json
+C:\Users\kuchi\Desktop\sem2\task15HW\bin\Debug\net6.0\task15HW.dll
+C:\Users\kuchi\Desktop\sem2\task15HW\bin\Debug\net6.0\task15HW.pdb
+C:\Users\kuchi\Desktop\sem2\task15HW\obj\Debug\net6.0\task15HW.csproj.AssemblyReference.cache
+C:\Users\kuchi\Desktop\sem2\task15HW\obj\Debug\net6.0\task15HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kuchi\Desktop\sem2\task15HW\obj\Debug\net6.0\task15HW.AssemblyInfoInputs.cache
+C:\Users\kuchi\Desktop\sem2\task15HW\obj\Debug\net6.0\task15HW.AssemblyInfo.cs
+C:\Users\kuchi\Desktop\sem2\task15HW\obj\Debug\net6.0\task15HW.csproj.CoreCompileInputs.cache
+C:\Users\kuchi\Desktop\sem2\task15HW\obj\Debug\net6.0\task15HW.dll
+C:\Users\kuchi\Desktop\sem2\task15HW\obj\Debug\net6.0\refint\task15HW.dll
+C:\Users\kuchi\Desktop\sem2\task15HW\obj\Debug\net6.0\task15HW.pdb
+C:\Users\kuchi\Desktop\sem2\task15HW\obj\Debug\net6.0\task15HW.genruntimeconfig.cache
+C:\Users\kuchi\Desktop\sem2\task15HW\obj\Debug\net6.0\ref\task15HW.dll
